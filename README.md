@@ -1,1 +1,1 @@
-# AI-ML-career-roadmap
+# AI/ML Career Roadmap
